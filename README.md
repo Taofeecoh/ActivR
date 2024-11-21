@@ -1,5 +1,5 @@
 # ActivR
-ActiVR provides a virtual reality device designed for exercise and fitness.
+ActiVR provides virtual reality devices designed for exercise and fitness.
 
 ActiVR offers a range of products, including VR devices and subscription-based fitness programs through their apps.
 
